@@ -1,0 +1,2 @@
+In this project we used the java 21 version  mysql and spring boot
+The communication between the two services we are using the FeignClient
